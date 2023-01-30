@@ -12,7 +12,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://is.gd/AUyC76</string>
+<string>https://is.gd/1OB524</string>
 </dict>
 <dict>
 <key>kind</key>
