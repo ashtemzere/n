@@ -18,19 +18,19 @@
 <key>kind</key>
 <string>display-image</string>
 <key>url</key>
-<string>https://kurdapp.tk/icon.png</string>
+<string>/assets/rasm/Minecraft.png</string>
 </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
 <key>url</key>
-<string>https://kurdapp.tk/icon.png</string>
+<string>/assets/rasm/Minecraft.png</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>kurd-app.video</string>
+<string>kurd-app.Minecraft</string>
 <key>bundle-version</key>
 <string>9.0</string>
 <key>kind</key>
@@ -38,7 +38,7 @@
 <key>title</key>
 <string>
 ✔ کورد ئەپ ✔
-videostar ++
+Minecraft
 🔑 تکایە با فیدیۆستار لە مۆبایلەکەت نەبێت تا دابەزێت🔑
 </string>
 </dict> 
