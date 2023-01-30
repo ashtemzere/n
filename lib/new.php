@@ -5,7 +5,7 @@
       <div class="left">
         <a href="/main/" class="link back">
           <i class="icon icon-back"></i>
-          <span class="if-not-md">کورد ئەپ</span>
+          <span class="if-not-md">دركه فتن</span>
         </a>
       </div>
       <div class="title">چی تازەیە</div>
