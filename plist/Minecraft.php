@@ -18,13 +18,13 @@
 <key>kind</key>
 <string>display-image</string>
 <key>url</key>
-<string>/assets/rasm/ minc.jpg</string>
+<string>/assets/rasm/minc.jpg</string>
 </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
 <key>url</key>
-<string>/assets/rasm/ minc.jpg</string>
+<string>/assets/rasm/minc.jpg</string>
 </dict>
 </array>
 <key>metadata</key>
