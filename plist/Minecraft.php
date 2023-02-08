@@ -18,13 +18,13 @@
 <key>kind</key>
 <string>display-image</string>
 <key>url</key>
-<string>/assets/img/ash.png</string>
+<string>/ash.png</string>
 </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
 <key>url</key>
-<string>/assets/img/ash.png</string>
+<string>/ash.png</string>
 </dict>
 </array>
 <key>metadata</key>
