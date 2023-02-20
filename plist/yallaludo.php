@@ -29,7 +29,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>kurd-app.org</string>
+<string>kurd-app.yallaludo</string>
 <key>bundle-version</key>
 <string>1.1.4</string>
 <key>kind</key>
