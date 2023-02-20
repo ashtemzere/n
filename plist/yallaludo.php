@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://up-ipa.com/uploads/up-ipa.comORG2020HACK_96959.ipa</string>
+<string>https://is.gd/73b1L6</string>
 </dict>
 <dict>
 <key>kind</key>
