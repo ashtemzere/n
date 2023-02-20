@@ -1,8 +1,4 @@
 
-<html>
-  <style>
-    @import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
-
 html,
 body{
   margin: 0px;
@@ -208,4 +204,3 @@ div{
 </svg>
 
 <h2>ببورە بەریز لینک خەلەتە</h2>
-</html>
