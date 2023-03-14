@@ -182,5 +182,12 @@ routes = [
     url: "./pages/newupdet.html",
   },
 
+  
+   {
+    path: "/yallaludo/",
+    url: "./pages/yallaludo.html",
+  },
+  
+  
 ];
 ;
