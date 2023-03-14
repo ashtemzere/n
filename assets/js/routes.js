@@ -203,5 +203,10 @@ routes = [
   },
   
   
+   {
+    path: "/ppsspp/",
+    url: "./pages/ppsspp.html",
+  },
+  
 ];
 ;
