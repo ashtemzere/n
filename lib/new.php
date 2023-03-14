@@ -12,7 +12,7 @@
     </div>
   </div>
   <div class="white-back page-content">
-    <div class="block-title block-title-medium" style="text-align: right">2022/7/11</div>
+    <div class="block-title block-title-medium" style="text-align: right">2023/7/11</div>
     <div class="block">
       <p style="text-align: right">
         
