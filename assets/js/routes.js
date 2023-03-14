@@ -178,11 +178,10 @@ routes = [
     url: "./pages/yallaludo.html",
   },
   
-  
-  
+ 
   {
-    path: "/royalmatch/",
-    url: "./pages/royalmatch.html",
+    path: "/royal/",
+    url: "./pages/royal.html",
   },
   
   
