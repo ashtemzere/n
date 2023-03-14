@@ -171,6 +171,14 @@ routes = [
     path: "/dawakari1/",
     url: "./lib/dawakari1.html",
   },
+  
+  
+  {
+    path: "/yallaludo/",
+    url: "./pages/yallaludo.html",
+  },
+  
+  
   // Default route (404 page). MUST BE THE LAST
   {
     path: "(.*)",
