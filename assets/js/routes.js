@@ -180,8 +180,8 @@ routes = [
   
  
   {
-    path: "/royal/",
-    url: "./pages/royal.html",
+    path: "/ppsspp/",
+    url: "./pages/ppsspp.html",
   },
   
   
