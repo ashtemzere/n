@@ -211,6 +211,11 @@ routes = [
   },
   
   
+   {
+    path: "/car_parking/",
+    url: "./pages/car_parking.html",
+  },
+  
   // Default route (404 page). MUST BE THE LAST
   {
     path: "(.*)",
@@ -258,6 +263,11 @@ routes = [
   {
     path: "/minecraft/",
     url: "./pages/minecraft.html",
+  },
+  
+   {
+    path: "/car_parking/",
+    url: "./pages/car_parking.html",
   },
   
 ];
