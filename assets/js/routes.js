@@ -205,6 +205,11 @@ routes = [
     url: "./pages/gtasa.html",
   },
   
+  {
+    path: "/minecraft/",
+    url: "./pages/minecraft.html",
+  },
+  
   
   // Default route (404 page). MUST BE THE LAST
   {
@@ -248,6 +253,11 @@ routes = [
    {
     path: "/gtasa/",
     url: "./pages/gtasa.html",
+  },
+  
+  {
+    path: "/minecraft/",
+    url: "./pages/minecraft.html",
   },
   
 ];
