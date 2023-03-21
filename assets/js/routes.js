@@ -200,6 +200,11 @@ routes = [
     url: "./pages/tiktok.html",
   },
   
+  {
+    path: "/gtasa/",
+    url: "./pages/gtasa.html",
+  },
+  
   
   // Default route (404 page). MUST BE THE LAST
   {
