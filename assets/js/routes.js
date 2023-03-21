@@ -184,6 +184,11 @@ routes = [
     url: "./pages/ppsspp.html",
   },
   
+   {
+    path: "/bully/",
+    url: "./pages/bully.html",
+  },
+  
   
   // Default route (404 page). MUST BE THE LAST
   {
@@ -207,6 +212,11 @@ routes = [
     path: "/ppsspp/",
     url: "./pages/ppsspp.html",
   },
+ 
   
+   {
+    path: "/bully/",
+    url: "./pages/bully.html",
+  },
 ];
 ;
