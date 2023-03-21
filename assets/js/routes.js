@@ -195,6 +195,12 @@ routes = [
     url: "./pages/snapchat.html",
   },
   
+  {
+    path: "/tiktok/",
+    url: "./pages/tiktok.html",
+  },
+  
+  
   // Default route (404 page). MUST BE THE LAST
   {
     path: "(.*)",
@@ -229,5 +235,11 @@ routes = [
     url: "./pages/snapchat.html",
   },
 
+ {
+    path: "/tiktok/",
+    url: "./pages/tiktok.html",
+  }, 
+  
+  
 ];
 ;
