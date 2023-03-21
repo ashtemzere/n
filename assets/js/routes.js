@@ -245,6 +245,10 @@ routes = [
     url: "./pages/tiktok.html",
   }, 
   
+   {
+    path: "/gtasa/",
+    url: "./pages/gtasa.html",
+  },
   
 ];
 ;
