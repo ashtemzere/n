@@ -190,6 +190,11 @@ routes = [
   },
   
   
+  {
+    path: "/snapchat/",
+    url: "./pages/snapchat.html",
+  },
+  
   // Default route (404 page). MUST BE THE LAST
   {
     path: "(.*)",
@@ -218,5 +223,11 @@ routes = [
     path: "/bully/",
     url: "./pages/bully.html",
   },
+
+{
+    path: "/snapchat/",
+    url: "./pages/snapchat.html",
+  },
+
 ];
 ;
