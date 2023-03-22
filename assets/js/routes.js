@@ -221,6 +221,12 @@ routes = [
     url: "./pages/carxstreet.html",
   },
   
+  {
+ path: "/subway/",
+    url: "./pages/subway.html",
+},
+  
+  
   // Default route (404 page). MUST BE THE LAST
   {
     path: "(.*)",
@@ -279,5 +285,12 @@ routes = [
     path: "/carxstreet/",
     url: "./pages/carxstreet.html",
   },
+
+{
+ path: "/subway/",
+    url: "./pages/subway.html",
+},
+
+
 ];
 ;
