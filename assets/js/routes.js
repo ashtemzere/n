@@ -227,6 +227,12 @@ routes = [
 },
   
   
+   {
+    path: "/carxdrift2/",
+    url: "./pages/carxdrift2.html",
+  },
+  
+  
   // Default route (404 page). MUST BE THE LAST
   {
     path: "(.*)",
