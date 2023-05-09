@@ -1,74 +1,128 @@
 <!DOCTYPE html>
 <html>
-<head>
-      <meta charset="utf-8">
-      <meta http-equiv=" content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap: content:">
-      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
-      <meta name="apple-mobile-web-app-capable" content="yes">
-      <link rel="shortcut icon" href="assets/bg/ash.png" type="image/x-icon">
-      <link rel="apple-touch-icon" href="assets/bg/ash.png" />
-      <link rel="apple-touch-icon" sizes="72x72" href="assets/bg/ash.png" />
-      <link rel="apple-touch-icon" sizes="114x114" href="assets/bg/ash.png" />
-      <meta name="apple-mobile-web-app-status-bar-style" content="white">
-      <meta name="format-detection" content="telephone=no">
-      <meta name="msapplication-tap-highlight" content="no">
-      <link rel="stylesheet" href="assets/css/framework7.bundle.min.css">
-      <link rel="stylesheet" href="assets/css/framework7-icons.css">
-      <link rel="stylesheet" href="assets/css/app.css">
-      <script src="assets/bg/ash.png"></script>
-      <title>ashte mzere</title>
+    <head>
+        <title>ashte mzere</title>
+        <link rel="stylesheet" href="css/preview.css">
+        <link rel="stylesheet" href="css/searchbar.css">
+        <link rel="stylesheet" href="css/card.css">
+        <link rel="stylesheet" href="css/rectangle.css">
+        <link rel="stylesheet" href="css/tapbar.css">
+        <link rel="stylesheet" href="css/slider.css">
+        <link rel="stylesheet" href="css/navigation.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/framework7-icons@5/css/framework7-icons.min.css">
+	    <link rel="stylesheet" href="css/banner.css">
+	    <link rel="stylesheet" href="css/apps.css">
+        <link rel="manifest" href="manifest.json">
+        <link rel="apple-touch-icon" sizes="180x180" href="img/ashtee.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+    <link rel="apple-touch-startup-image" href="img/ashtee.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+   
 
-   </head>
-         <body onload="iNoBounce.enable();">
-         <script>
-             window.onload = function() {
-               if(!navigator.standalone) {
-                $("body").load('https://www.ashtemobile.ga//app/install/index.html');
-               }
-             }
-            </script>
-      <div id="app">
-         <div id="bar" class="statusbar"></div>
-         <div class="view view-main">
-            <div data-name="home" class="page">
-               <div class="white-back navbar navbar-large navbar-large-transparent">
-                  <div class="white-back navbar-bg"></div>
-                  <div class="navbar-inner sliding">
-                     <div class="title">ashte mzere 💘</div>
-                     <div class="right">
-                        <a class="popup-open" href="#" style="color:red;" data-popup=".popup-actev"><i class="f7-icons">checkmark_circle_fill</i></a>
-	<!--green--> <!--red-->
-   <a class="popup-open" href="#" data-popup=".popup-serch"><i class="f7-icons">fa fa-search</i></a>
+<style>
+    </head>
+    <br>
+    body{
+  margin:0px;
+  background-color:#181818;
+}
 
-                        <a herf="javascript:window.location.reload(true)"><i class="f7-icons">arrow_clockwise_circle_fill</i></a>
-                     </div>
-                     <div class="title-large">
-                        <div class="title-large-text">ashte mzere 💘</div>
-                     </div>
-                  </div>
-               </div>
-               <div class="white-back page-content">
-                  <div class="block">
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 
-                    
+a {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
 
-     <div class="shadow welcome-block gradient" style="
-                     width: 100%;
-                     height: 120px;
-                     /* background-size: 100%; */
-                     color: rgb(255, 255, 255)!important;
-                     background-size: cover;
-                     background-position: 50%;
-                     background: url('assets/img/videostar.png');
-                   ">
-                        <div class="block">
-                           <div class="semibold uppercase clear-title">تایبەت</div>
-                           <h1 style="margin-top: 0px;" style=" color: #000!important;"><span class="semibold">زۆرترین داواکاری</span></h1>
-                           <a href="/dawakari1/" class="link">
-                              <h3 href="/dawakari1/" style="margin-top: 0px; color: rgb(255, 255, 255)!important; opacity: 0.85" class="semibold">ئێستا دایانبەزێنە<i style="font-size: 1.17em;" class="f7-icons">arrow_up_right</i></h3>
-                           </a>
-                        </div>
-                     </div>
+a {
+  color: black;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 0.8em;
+  color: rgba(255,255,255,0.2);}
+
+</style>
+</head>
+<body>
+
+
+<br>
+  <h5 style="font-family:arial;margin-left:17px;font-size:12px;">
+      <script>
+      					                                                 var mydate=new Date()
+      					                                                 var year=mydate.getYear()
+      					                                                 var day=mydate.getDay()
+      					                                                 var month=mydate.getMonth()
+      					                                                 var daym=mydate.getDate()
+      					                                                 if (daym<10)
+      					                                                   daym="0"+daym
+      					                                                 var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+      					                                                 var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+      					                                                 document.write("<font color='f2f2f2'>"+dayarray[day]+", "+montharray[month]+" "+daym+"<\/font>")
+      </script>
+  <font  color="ffffff" class></font>
+    </h5>
+<h1 style="font-family:helvetica;font-size:28px;color:white;margin-left:17px">ashte mzere 🔴</h1>
+</div>    
+</body>
+
+<div>
+
+</html>
+<link rel='icon' href='favicon.ico' type='img/ashtee.png'/ >
+
+<meta name="yandex-verification" content="img/ashtee.png" />
+
+<link rel="apple-touch-icon" href="img/ashtee.png"/>
+    
+<center> 
+
+  <br>
+
+<link rel='icon' href='favicon.ico' type='img/ashtee.png'/ >
+
+<meta name="yandex-verification" content="img/ashtee.png" />
+
+<link rel="apple-touch-icon" href="img/ashtee.png"/>
+
+ <div class="banner">
+
+                <div><span onclick="location='https://instagram.com/as.m0bile?igshid=YmMyMTA2M2Y='"><img style="width:265px;border-radius:11px;margin:5px;" src="img/instagarm1.png"></img></span></div>
+
+                <div><span onclick="location='https://www.snapchat.com/add/ashtemzere'"><img style="width:265px;border-radius:11px;margin:5px;" src="img/snapchat1.png"></img></span></div>
+
+                <div><span onclick="location='https://t.me/as_mobile94'"><img style="width:265px;border-radius:11px;margin:5px;" src="img/telegram.png"></img></span></div>
+                
+                <div><span onclick="location='https://www.youtube.com/@asmobile28'"><img style="width:265px;border-radius:11px;margin:5px;" src="img/youtube1.png"></img></span></div>
+</div>
+
+
+<hr class="style-one">
+<style>
+hr.style-one {
+    border: 0;
+    height: 1px;
+    margin: 23px;
+    background: #ffffff;
+    background-image: linear-gradient(to right, #696969, #696969, #696969);
+}
+</style>
+    <p style="font-family:helvetica;font-size:18px;color:#fff;margin-left:5px">Popular</p>
+<ul id="myUL">
+    <center>
+        <div class="section group">
+            <div class="col span_1_of_4">
+                <div class="new">
 			  
 			  
 			  
